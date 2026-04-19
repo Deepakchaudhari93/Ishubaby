@@ -24,8 +24,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/reetsingh886/Vaishu-
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", "YOUR_GIT_TOKEN") # FOR PRIVATE SOURCE DEPLOYMENT 
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BotsSupport_36")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BOTxBOOSTER")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/pagalpan_for_dpz")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/stylishdpforishu")
 
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
 
